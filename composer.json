@@ -1,6 +1,7 @@
 {
     "require-dev": {
         "codeclimate/php-test-reporter": "dev-master",
-        "phpunit/phpunit": "~5.0"
+        "wp-coding-standards/wpcs": "dev-master",
+        "phpunit/phpunit": "^6.0"
     }
 }
